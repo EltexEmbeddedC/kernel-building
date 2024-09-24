@@ -24,12 +24,13 @@
 
     ![сборка модулей](/img/modules.jpg)
 - Теперь установим всё это в систему:
-    ```bash
-    sudo make modules_install
-    sudo make install
-    ```
+    - `sudo make modules_install`
 
-    ![ecnfyjdrf](/img/install.jpg)
+        ![установка модулей](/img/modules_install.jpg)
+
+    - `sudo make install`
+
+        ![установка](/img/install.jpg)
 
 ### Тестирование
 
